@@ -4,7 +4,7 @@ ___
 ___
 
 <p align="center">
-  <img class="center" src ="https://www.uab.edu/news/images/2018/COVIDEvolution.jpg" alt="Drawing" style="width: 1350px; height: 600px">
+  <img class="center" src ="https://github.com/ronylpatil/Stock-Sentiment-Analysis-using-News-Headlines/blob/main/stock.png" alt="Drawing" style="width: 1350px; height: 400px">
 </p>
 
 
