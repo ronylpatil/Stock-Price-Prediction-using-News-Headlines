@@ -1,10 +1,5 @@
 # Stock Sentiment Analysis using News Headlines
 
-<h2 align="center">
-
-[![Made with Vue.js](https://awesome.re/mentioned-badge.svg)](https://github.com/vuejs/awesome-vue)
-
-</h2>
   
 <b>Here we will discuss a complete End to End approach for building Stock Sentiment Analysis using News Headlines Project.</b>
 
