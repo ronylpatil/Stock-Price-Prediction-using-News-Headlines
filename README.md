@@ -2,7 +2,7 @@
 
 <h2 align="center">
 
-[![Made with Love by Ronil](https://awesome.re/mentioned-badge.svg)](https://github.com/vuejs/awesome-vue)
+[![Made with Vue.js](https://awesome.re/mentioned-badge.svg)](https://github.com/vuejs/awesome-vue)
 
 </h2>
   
