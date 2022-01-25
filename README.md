@@ -1,2 +1,12 @@
 # Stock Sentiment Analysis using News Headlines
-Complete End to End approach of building Stock Price Prediction using News Headlines Project.
+___
+<b>Here we will discuss a complete End to End approach for building Stock Sentiment Analysis using News Headlines Project.</b>
+___
+
+
+
+
+
+
+
+
