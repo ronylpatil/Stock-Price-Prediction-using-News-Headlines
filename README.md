@@ -32,7 +32,7 @@ As we all know that in the begining of the era humans were also animals but huma
   Complete NLP Pipeline for Stock Sentiment Analysis
 </h3>
 
-<b>Problem Statement - </b> 
+<b>Problem Statement - </b> We need to build a model that helps the investors to avoid risk and financial crises when making investment decision. Here we will predict stock market behaviour whether it will fall or raise. This is basically an attempt to study relationship between news headlines and stock price. 
 
 The NLP Pipelines are set of steps followed to build an end to end NLP projects.
 <b>
@@ -79,6 +79,9 @@ Data Acquisition
 
 ```
 </b>
+
+<b>Data Collection Technique -</b> Here we will collect headlines of economical news of a company and collect the stock market data according to the timestamp of the given economic news headlines. On the one hand, we will analyze the stock's starting, closing, lowest, and highest prices, while on the other hand, we will analyse the top 20 to 25 news headlines.
+
 
 
 
