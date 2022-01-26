@@ -24,9 +24,9 @@ As we all know that in the begining of the era humans were also animals but huma
 
 #### Real World Application of NLP : <b>
 - Contextual Advertisement(Target Add.)
-- Social Media - Removing adult content, opinion minning.
-- Search Engine - From last 10 to 15 years google search engine evolved alot. Now you need to just ask question, google will quickly featch result in single line.
-- Chatbots</b>
+- Social Media - </b>Removing adult content, opinion minning.
+- <b>Search Engine -</b> From last 10 to 15 years google search engine evolved alot. Now you need to just ask question, google will quickly featch result in single line.
+- <b>Chatbots</b>
 
 <h3 align="center">
   Complete NLP Pipeline for Stock Sentiment Analysis
