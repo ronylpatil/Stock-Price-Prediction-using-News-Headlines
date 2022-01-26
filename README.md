@@ -49,7 +49,7 @@ The NLP Pipelines are set of steps followed to build an end to end NLP projects.
   1. Data Acquisition / Data Collection
 </h4>
 
-Data Collection is one of the difficult task in any of the Machine Learning, or Deep Learning projects. Here we may have 3 scenario. First, either <b>readymade dataset</b> will be available, or we can take it from any <b>third party</b>, or <b>we dont have data.</b>
+Data Collection is one of the difficult task in any of the Machine Learning, or Deep Learning projects. Here we may have 3 scenarios. First, either <b>readymade dataset</b> will be available, or we can take it from any <b>third party</b>, or <b>we dont have data.</b>
 <b>
 ```
 Data Acquisition
@@ -88,7 +88,7 @@ Data Acquisition
   2. Data Prepration
 </h4>
 
-Here we have 3 scenario.
+Here we have 3 scenarios.
 <b>
 ```
 Data Prepration
@@ -106,18 +106,18 @@ Data Prepration
          |--- 2. Optional Preprocessing Steps
               |--- 1. Removing stopwords - removing words that basically used for sentance formation.
               |--- 2. Text Normalization - It reduce the derivational form of word to its base word.
-                   |--- 1. Stemming - It remove the last few characters of words and return the base word. It dont care about
-                                      context.
-                   |--- 2. Lemmatization - It is similar as stemming, only difference is it considerd context and convert the
-                                           word to meaningfull base form.
+                   |--- 1. Stemming - It remove the last few characters of words and return the base word. It dont care 
+                                      about context.
+                   |--- 2. Lemmatization - It is similar as stemming, only difference is it considerd context and convert
+                                           the word to meaningfull base form.
               |--- 4. Removing digits, punctuations, and ...
               |--- 5. Lower casing or upper casing the text.
               |--- 6. Language detection.
           
     |--- 3. Adv. Text Preprocessing
-         |--- 
-         |--- 
-         |--- 
+         |--- 1. Part of speech tagging.
+         |--- 2. Parsing.
+         |--- 3. Co-reference Resolution. 
          
 ```
 </b>
