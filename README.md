@@ -38,7 +38,7 @@ As we all know that in the begining of the era humans were also animals but huma
 The NLP Pipelines are set of steps followed to build an end to end NLP projects.
 <b>
 1. Data Acquisition / Data Collection
-2. Text Preperation
+2. Text Prepration
 3. Feature Engineering
 4. Modelling and Evalution
 5. Deployment 
@@ -49,7 +49,7 @@ The NLP Pipelines are set of steps followed to build an end to end NLP projects.
   1. Data Acquisition / Data Collection
 </h4>
 
-Data Collection is one of the difficult task in any of the Machine Learning, or Deep Learning projects. Here we may have 3 scenerio. First, either <b>readymade dataset</b> will be available, or we can take it from any <b>third party</b>, or <b>we dont have data.</b>
+Data Collection is one of the difficult task in any of the Machine Learning, or Deep Learning projects. Here we may have 3 scenario. First, either <b>readymade dataset</b> will be available, or we can take it from any <b>third party</b>, or <b>we dont have data.</b>
 <b>
 ```
 Data Acquisition
@@ -85,10 +85,42 @@ Data Acquisition
 
 
 <h4 align = "center">
-  2. Data Preperation
+  2. Data Prepration
 </h4>
 
-
+Here we have 3 scenario.
+<b>
+```
+Data Prepration
+    |--- 1. Basic Cleaning
+         |--- 1. Using regular expression to remove impurities.
+         |--- 2. Unicode Normalization - Here we will encode the emojies so that it will be easily understandable 
+                 by our machine.
+         |--- 3. Spelling Checking.
+        
+    |--- 2. Basic Text Preprocessing
+         |--- 1. Tokenization - Spliting the text into smaller units.
+              |--- 1. Sentence Tokenization.
+              |--- 2. Word Tokenization.
+              
+         |--- 2. Optional Preprocessing Steps
+              |--- 1. Removing stopwords - removing words that basically used for sentance formation.
+              |--- 2. Text Normalization - It reduce the derivational form of word to its base word.
+                   |--- 1. Stemming - It remove the last few characters of words and return the base word. It dont care about
+                                      context.
+                   |--- 2. Lemmatization - It is similar as stemming, only difference is it considerd context and convert the
+                                           word to meaningfull base form.
+              |--- 4. Removing digits, punctuations, and ...
+              |--- 5. Lower casing or upper casing the text.
+              |--- 6. Language detection.
+          
+    |--- 3. Adv. Text Preprocessing
+         |--- 
+         |--- 
+         |--- 
+         
+```
+</b>
 
 
 
