@@ -83,7 +83,9 @@ Data Acquisition
 <b>Data Collection Technique -</b> Here we will collect headlines of economical news of a company and collect the stock market data according to the timestamp of the given economic news headlines. On the one hand, we will analyze the stock's starting, closing, lowest, and highest prices, while on the other hand, we will analyse the Top-20 to 25 news headlines.
 
 
-
+<h4 align = "center">
+  2. Data Preperation
+</h4>
 
 
 
