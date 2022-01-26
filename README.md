@@ -33,12 +33,14 @@ As we all know that in the begining of the era humans were also animals but huma
 </h3>
 
 The NLP Pipelines are set of steps followed to build an end to end NLP projects.
+
 <b>
 1. Data Acquisition / Data Collection
 2. Text Preperation
 3. Feature Engineering
 4. Modelling and Evalution
-5. Deployment</b>
+5. Deployment
+</b>
 
 
 
