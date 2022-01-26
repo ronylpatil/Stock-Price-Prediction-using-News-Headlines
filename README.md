@@ -1,4 +1,5 @@
-# Stock Sentiment Analysis using News Headlines
+<h2 align="center">
+Stock Sentiment Analysis using News Headlines
 
 <h4 align="center">
   
@@ -6,7 +7,7 @@
   
 <b>Here we will discuss a complete End to End approach for building Stock Sentiment Analysis using News Headlines Project.</b>
   
-</h4>
+</h4></h2>
   
 <p align="center">
   <img class="center" src ="https://github.com/ronylpatil/Stock-Sentiment-Analysis-using-News-Headlines/blob/main/stock.png" alt="Drawing" style="width: 950px; height: 400px">
