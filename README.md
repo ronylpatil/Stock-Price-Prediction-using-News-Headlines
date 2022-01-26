@@ -21,7 +21,7 @@ It is basically subset of Linguistic(Human Languages), Computer Science, and Art
 </p>
 
 #### What is Natual Language?
-As we all know that in the begining of the era humans were also animals but humans findout a way to communicate with each other and over a time it start improving and then it becomes a language. As it is evolve naturally over a time, it known as Natural Language. Natural Language can be speech or signs. It is different from artificial languages such as python, java...
+As we all know that in the beginning of the era humans were also animals but humans findout a way to communicate with each other and over a time it start improving and then it becomes a language. As it is evolve naturally over a time, it known as Natural Language. Natural Language can be speech or signs. It is different from artificial languages such as python, java...
 
 #### Real World Application of NLP : <b>
 - Contextual Advertisement(Target Add.)
