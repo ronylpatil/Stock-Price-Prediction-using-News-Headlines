@@ -16,7 +16,7 @@
 It is basically subset of Linguistic(Human Languages), Computer Science, and Artifical Intelligence. Here we are programming our machines in a such a way that it can understand, interpreat, and manipulate human languages.
 
 <p align="center">
-  <img class="center" src ="https://github.com/ronylpatil/Stock-Sentiment-Analysis-using-News-Headlines/blob/main/nlp1.png" alt="Drawing" style="width: 1550px; height: 400px">
+  <img class="center" src ="https://github.com/ronylpatil/Stock-Sentiment-Analysis-using-News-Headlines/blob/main/nlp1.png" alt="Drawing" style="width: 1350px; height: 425px">
 </p>
 
 #### What is Natual Language?
