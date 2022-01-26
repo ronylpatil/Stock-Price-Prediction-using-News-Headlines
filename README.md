@@ -46,6 +46,7 @@ The NLP Pipelines are set of steps followed to build an end to end NLP projects.
   1. Data Acquisition / Data Collection
 </h4>
 
+Data Collection is one of the difficult task in any of the Machine Learning, or Deep Learning projects. Here we may have 3 scenerio. First, either <b>readymade dataset</b> will be available, or we can take it from any <b>third party</b>, or <b>we dont have data.</b>
 
 
 
