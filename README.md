@@ -32,6 +32,8 @@ As we all know that in the begining of the era humans were also animals but huma
   Complete NLP Pipeline for Stock Sentiment Analysis
 </h3>
 
+<b>Problem Statement - </b> 
+
 The NLP Pipelines are set of steps followed to build an end to end NLP projects.
 <b>
 1. Data Acquisition / Data Collection
@@ -47,6 +49,36 @@ The NLP Pipelines are set of steps followed to build an end to end NLP projects.
 </h4>
 
 Data Collection is one of the difficult task in any of the Machine Learning, or Deep Learning projects. Here we may have 3 scenerio. First, either <b>readymade dataset</b> will be available, or we can take it from any <b>third party</b>, or <b>we dont have data.</b>
+<b>
+```
+Data Acquisition
+  |--- 1. Dataset is readymade available.
+        |--- 1. We have readymade dataset in CSV format.
+        |--- 2. We have data in database.
+             |--- In this case we need to contact with our data engineering team for collecting the data. 
+        |--- 3. We have very less data.
+             |--- Here we need to do Data Augmentation.
+                  |--- 1. We can generate fake data by replacing word's with there synonyms.
+                  |--- 2. Bi-gram Flip - We can flip the two words to add some variation to the text.
+                  |--- 3. Back Translate - We will first translate the text into different language then again 
+                                           re-translate it into original language, it will basically rephrase
+                                           the text. 
+                  |--- 4. Adding Noise - We can add some noise in the sentence which dont have any meaning.
+                                         Here sentiment will be same only sentence will change.
+                  
+  |--- 2. Data from third party.
+       |--- 1. We can use public dataset.
+       |--- 2. We can get the data by webscraping.
+       |--- 3. We can use API's to get the data.
+       |--- 4. Data can be extracted from PDF files, images, or audio files.
+        
+  |--- 3. We dont have data.
+       |--- If we dont have data in this case we need to take survey from our loyal customers and then label them manually. 
+            Then we can use heuristic approach to get the data. In such cases we need to use an intelligent approach
+            to get the data.
+
+```
+</b>
 
 
 
