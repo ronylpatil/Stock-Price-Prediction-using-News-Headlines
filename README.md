@@ -35,6 +35,8 @@ As we all know that in the beginning of the era humans were also animals but hum
 
 <b>Problem Statement - </b> We need to build a model that helps the investors to avoid risk and financial crises when making investment decision. Here we will predict stock market behaviour whether it will fall or raise. This is basically an attempt to study relationship between news headlines and stock price. 
 
+<b>Here we are considering different types of news related to companies, markets and financial reports.</b>
+
 The NLP Pipelines are set of steps followed to build an end to end NLP projects.
 <b>
 1. Data Acquisition / Data Collection
@@ -124,7 +126,8 @@ Data Prepration
 
 
 
-
+#### Challenges in this project
+Actually predicting the behaviour of stock market based on news minning is very attractive field of research and it has a lot of challenges because of unstructured nature of news. Many times, we've seen that news reporters tweak the headlines so smoothly so that we can't tell whether they're blaming or supporting the victim. One punctuation mark has power to change the whole meaning of the sentence. Therefore NLP is very challenging task. Here news minning means extracting hidden, useful and potentially unknown patterns from news data to obtain knowledge. 
 
 
 
