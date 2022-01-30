@@ -124,10 +124,19 @@ Data Prepration
 ```
 </b>
 
+<h4 align = "center">
+  3. Feature Engineering / Text Representation / Text Vectorization / Text Representation / Feature Extraction
+</h4>
+Actually dealing with text data is one of the difficult task as compare to image data or audio/speech data because in images we deal with pixels and in speech data we deal with amplitude and frequency so that we can easily get numeric data from it. But in textual data there is no chance! Here we will face various challenges such as suppose anyhow we have converted textual data into numeric data but here we have to also focus that the numeric vector representing the textual data should also convey semantic meaning of the sentence. The hidden meaning of the text should also be convery from the vector, this is our end goal. 
 
 
-#### Challenges in this project
-Actually predicting the behaviour of stock market based on news minning is very attractive field of research and it has a lot of challenges because of unstructured nature of news. Many times, we've seen that news reporters tweak the headlines so smoothly so that we can't tell whether they're blaming or supporting the victim. One punctuation mark has power to change the whole meaning of the sentence. Therefore NLP is very challenging task. Here news minning means extracting hidden, useful and potentially unknown patterns from news data to obtain knowledge. 
+
+In this stage we will convert the text data into particular format so that we can easily feed it to Machine Learning Algo. or Deep Learning Arch.  
+
+
+
+#### Challenges in this Project
+Actually predicting the behaviour of stock market based on news minning is very attractive field of research and it has a lot of challenges because of unstructured nature of news. Many times, we've seen that news reporters tweak the headlines so smoothly so that we can't tell whether they're blaming or supporting the victim. One punctuation mark has power to change the meaning of the whole sentence. Therefore NLP is very challenging task. Here news minning means extracting hidden, useful and potentially unknown patterns from news data to obtain knowledge. 
 
 
 
