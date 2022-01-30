@@ -3,10 +3,7 @@ Stock Sentiment Analysis using News Headlines
 
 <h4 align="center">
   
-[![Website](https://img.shields.io/badge/Made%20with-%E2%9D%A4-important?style=for-the-badge&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/)
-  
-<b>Here we will discuss a complete End to End approach for building Stock Sentiment Analysis using News Headlines Project.</b>
-  
+<b>Here we will discuss a complete End to End approach for building Stock Sentiment Analysis using News Headlines Project</b>
 </h4></h2>
   
 <p align="center">
@@ -148,11 +145,10 @@ Feature Eng. depends on problem statement, based on problem statement we have to
 <h4 align = "center">
   4. Modelling and Evalution
 </h4>
+
 We have converted the data into the suitable numeric format, now its time to feed it to algorithm.
 ```
-
-
-
+asas
 ```
 
 
@@ -161,7 +157,10 @@ We have converted the data into the suitable numeric format, now its time to fee
 Actually predicting the behaviour of stock market based on news minning is very attractive field of research and it has a lot of challenges because of unstructured nature of news. Many times, we've seen that news reporters tweak the headlines so smoothly so that we can't tell whether they're blaming or supporting the victim. One punctuation mark has power to change the meaning of the whole sentence. Therefore NLP is very challenging task. Here news minning means extracting hidden, useful and potentially unknown patterns from news data to obtain knowledge. 
 
 
-
+<h4 align="center">
+  
+[![Website](https://img.shields.io/badge/Made%20with-%E2%9D%A4-important?style=for-the-badge&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/)  
+</h4>
 
 
 
