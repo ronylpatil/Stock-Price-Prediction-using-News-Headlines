@@ -187,11 +187,31 @@ We have converted the data into the suitable numeric format, now its time to fee
 ```
 </b>
 
+
 <h4 align = "center">
   5. Deployment
 </h4>
 
+The final step...
+<b>
+```
+Deployement Steps
+      |--- 1. Deploy
+        The deployment steps varies from project to project; for example, if we are developing a
+        full-fledged project, our approach will be different, and if we are developing a single feature, our 
+        approach will be different.
 
+      |--- 2. Monitor
+        Here we will build a dashboard, which will plot graphs of various evaluation metrics such as
+        intrensic evaluation & extrensic evaluation.
+
+      |--- 3. Update
+        In this stage we will update our model based on our requirement's.
+        As our model get new data it get trained on the server. In this case our approach would be little 
+        bit different.        
+
+```
+</b>
 
 <h4 align = "center">
   6. Challenges - We will undoubtedly face them!
