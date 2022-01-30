@@ -197,24 +197,24 @@ The final step...
 ```
 Deployement Steps
       |--- 1. Deploy
-        The deployment steps varies from project to project; for example, if we are developing a
-        full-fledged project, our approach will be different, and if we are developing a single feature, our 
-        approach will be different.
+              The deployment steps varies from project to project; for example, if we are developing a
+              full-fledged project, our approach will be different, and if we are developing a single feature, our 
+              approach will be different.
 
       |--- 2. Monitor
-        Here we will build a dashboard, which will plot graphs of various evaluation metrics such as
-        intrensic evaluation & extrensic evaluation.
+              Here we will build a dashboard, which will plot graphs of various evaluation metrics such as
+              intrensic evaluation & extrensic evaluation.
 
       |--- 3. Update
-        In this stage we will update our model based on our requirement's.
-        As our model get new data it get trained on the server. In this case our approach would be little 
-        bit different.        
+              In this stage we will update our model based on our requirement's.
+              As our model get new data it get trained on the server. In this case our approach would be little 
+              bit different.        
 
 ```
 </b>
 
 <h4 align = "center">
-  6. Challenges - We will undoubtedly face them!
+  6. Challenges - We are just at 5% of the NLP's potential!
 </h4>
 
 Actually predicting the behaviour of stock market based on news minning is very attractive field of research and it has a lot of challenges because of unstructured nature of news. Many times, we've seen that news reporters tweak the headlines so smoothly so that we can't tell whether they're blaming or supporting the victim. One punctuation mark has power to change the meaning of the whole sentence. Therefore NLP is very challenging task. Here news minning means extracting hidden, useful and potentially unknown patterns from news data to obtain knowledge. 
@@ -224,22 +224,3 @@ Actually predicting the behaviour of stock market based on news minning is very 
   
 [![Website](https://img.shields.io/badge/Made%20with-%E2%9D%A4-important?style=for-the-badge&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/)  
 </h4>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
