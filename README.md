@@ -3,7 +3,7 @@ Stock Sentiment Analysis using News Headlines
 
 <h4 align="center">
   
-<b>Here we will discuss a complete End to End approach for building Stock Sentiment Analysis using News Headlines Project</b>
+<b>Here we will discuss a complete End to End approach for building Stock Sentiment Analysis using News Headlines</b>
 </h4></h2>
   
 <p align="center">
@@ -140,7 +140,7 @@ Feature Engineering Techniques
 
 ```
 </b>
-Feature Eng. depends on problem statement, based on problem statement we have to decide the approach.
+Feature Eng. depends on the problem statement, based on problem statement we have to decide the approach.
 
 <h4 align = "center">
   4. Modelling and Evalution
@@ -151,18 +151,38 @@ We have converted the data into the suitable numeric format, now its time to fee
 |--- 1. Modelling
             |--- 1. Heuristic Approach
             |--- 2. Machine Learning Approach
+                    Mostly used in basic sentiment analysis problem's.
+                    |--- Popular ML Algorithms
+                            |--- Naive Bayes
+                            |--- Logistic Reg.
+                            |--- Support Vector Machine
+                            |--- Latent Dirichlet Allocation (LDA)
+                            |--- Hidden Markov Model (HMM)
+                            ...
             |--- 3. Deep Learning Approach
                         |--- 1. Transfer Learning 
                                 ex. BERT Model
                         |--- 2. RNN(Recurrent Neural Nertwork)
-                                Deal with sequential data. Used in Bot's, alexa, siri...
+                                Deal with sequential data. Used in Bot's, alexa, siri, machine translation...
             |--- 4. Cloud API's
                     GCP, Azure, AWS... have sol. of different problems we can directly use their API's.
                     In this case we don't need to use any algorithm, directly hit the api's and use their services. 
-
-|--- 2. Evalution
-            |--- 1. Intrensic Eval.
-            |--- 2. Extrensic Eval.
+        
+        Note - Which approach we need to use is depends on 2 things : 
+               1. Amount of data. 
+               2. Nature of problem statement.
+  
+|--- 2. Evaluation (In Industrial Level projects we need to focus on both the approaches)
+            |--- 1. Intrensic Evaluation (Technical Approach)
+                        |--- Confusion Matrics
+                        |--- Precision
+                        |--- Recall
+                        |--- Accuracy
+                        |--- Classification Report
+  
+            |--- 2. Extrensic Evaluation (Business Level Approach)
+                    Once our model get deployed it becomes product and in such business setting's we evaluate our model.
+  
 ```
 </b>
 
