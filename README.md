@@ -48,7 +48,7 @@ The NLP Pipelines are set of steps followed to build an end to end NLP projects.
   1. Data Acquisition / Data Collection
 </h4>
 
-Data Collection is one of the difficult task in any of the Machine Learning, or Deep Learning projects. Here we may have 3 scenarios. First, either <b>readymade dataset</b> will be available, or we can take it from any <b>third party</b>, or <b>we dont have data.</b>
+Data Collection is one of the difficult task in any of the Machine Learning, or Deep Learning projects. Here I have mentioned 3 possible scenarios.
 <b>
 ```
 Data Acquisition
@@ -80,7 +80,7 @@ Data Acquisition
 ```
 </b>
 
-<b>Data Collection Technique -</b> Here we will collect headlines of economical news of a company and collect the stock market data according to the timestamp of the given economic news headlines. On the one hand, we will analyze the stock's starting, closing, lowest, and highest prices, while on the other hand, we will analyse the Top-20 to 25 news headlines.
+<b>Our Data Collection Approach -</b> Here we will collect headlines of economical news of a company and collect the stock market data according to the timestamp of the given economic news headlines. On the one hand, we will analyze the stock's starting, closing, lowest, and highest prices, while on the other hand, we will analyse the Top-20 to 25 news headlines.
 
 
 <h4 align = "center">
@@ -148,7 +148,7 @@ Feature Eng. depends on the problem statement, based on problem statement we hav
 
 We have converted the data into the suitable numeric format, now its time to feed it to algorithm.<b>
 ```
-|--- 1. Modelling
+|--- 1. Modelling - Here we will build model for our problem statement.
             |--- 1. Heuristic Approach
             |--- 2. Machine Learning Approach
                     Mostly used in basic sentiment analysis problem's.
@@ -172,7 +172,8 @@ We have converted the data into the suitable numeric format, now its time to fee
                1. Amount of data. 
                2. Nature of problem statement.
   
-|--- 2. Evaluation (In Industrial Level projects we need to focus on both the approaches)
+|--- 2. Evaluation - Here we will evaluate our model.
+        (In Industrial Level projects we need to focus on both the approaches)
             |--- 1. Intrensic Evaluation (Technical Approach)
                         |--- Confusion Matrics
                         |--- Precision
