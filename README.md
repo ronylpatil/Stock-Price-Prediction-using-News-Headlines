@@ -129,9 +129,31 @@ Data Prepration
 </h4>
 Actually dealing with text data is one of the difficult task as compare to image data or audio/speech data because in images we deal with pixels and in speech data we deal with amplitude and frequency so that we can easily get numeric data from it. But in textual data there is no chance! Here we will face various challenges such as suppose anyhow we have converted textual data into numeric data but here we have to also focus that the numeric vector representing the textual data should also convey semantic meaning of the sentence. The hidden meaning of the text should also be convery from the vector, this is our end goal. 
 
+In this stage we will convert the text data into numeric format so that we can easily feed it to Machine Learning Algo. or Deep Learning Arch.  
+<b>
+```
+Feature Engineering Techniques
+      |--- One-hot Encoding
+      |--- Bag of Words
+      |--- N-gram
+      |--- Tf-IDF
+      |--- Custom Features / Handcrafted Features 
+      |--- Word2vec
+      ...
+
+```
+</b>
+Feature Eng. depends on problem statement, based on problem statement we have to decide the approach.
+
+<h4 align = "center">
+  4. Modelling and Evalution
+</h4>
+We have converted the data into the suitable numeric format, now its time to feed it to algorithm.
+```
 
 
-In this stage we will convert the text data into particular format so that we can easily feed it to Machine Learning Algo. or Deep Learning Arch.  
+
+```
 
 
 
