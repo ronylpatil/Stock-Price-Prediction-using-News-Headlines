@@ -130,12 +130,12 @@ In this stage we will convert the text data into numeric format so that we can e
 <b>
 ```
 Feature Engineering Techniques
-      |--- One-hot Encoding
-      |--- Bag of Words
-      |--- N-gram
-      |--- Tf-IDF
-      |--- Custom Features / Handcrafted Features 
-      |--- Word2vec
+      |--- 1. One-hot Encoding
+      |--- 2. Bag of Words
+      |--- 3. N-gram
+      |--- 4. Tf-IDF
+      |--- 5. Custom Features / Handcrafted Features 
+      |--- 6. Word2vec
       ...
 
 ```
@@ -146,12 +146,25 @@ Feature Eng. depends on problem statement, based on problem statement we have to
   4. Modelling and Evalution
 </h4>
 
-We have converted the data into the suitable numeric format, now its time to feed it to algorithm.
+We have converted the data into the suitable numeric format, now its time to feed it to algorithm.<b>
 ```
-asas
+|--- 1. Modelling
+            |--- 1. Heuristic Approach
+            |--- 2. Machine Learning Approach
+            |--- 3. Deep Learning Approach
+                        |--- 1. Transfer Learning 
+                                ex. BERT Model
+                        |--- 2. RNN(Recurrent Neural Nertwork)
+                                Deal with sequential data. Used in Bot's, alexa, siri...
+            |--- 4. Cloud API's
+                    GCP, Azure, AWS... have sol. of different problems we can directly use their API's.
+                    In this case we don't need to use any algorithm, directly hit the api's and use their services. 
+
+|--- 2. Evalution
+            |--- 1. Intrensic Eval.
+            |--- 2. Extrensic Eval.
 ```
-
-
+</b>
 
 #### Challenges in this Project
 Actually predicting the behaviour of stock market based on news minning is very attractive field of research and it has a lot of challenges because of unstructured nature of news. Many times, we've seen that news reporters tweak the headlines so smoothly so that we can't tell whether they're blaming or supporting the victim. One punctuation mark has power to change the meaning of the whole sentence. Therefore NLP is very challenging task. Here news minning means extracting hidden, useful and potentially unknown patterns from news data to obtain knowledge. 
