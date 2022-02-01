@@ -178,10 +178,11 @@ We have converted the data into the suitable numeric format, now its time to fee
         (In Industrial Level projects we need to focus on both the approaches)
             |--- 1. Intrensic Evaluation (Technical Approach)
                         |--- Confusion Matrics
-                        |--- Precision
-                        |--- Recall
-                        |--- Accuracy
                         |--- Classification Report
+                                  |--- Precision
+                                  |--- Recall
+                                  |--- Accuracy
+                        
   
             |--- 2. Extrensic Evaluation (Business Level Approach)
                     Once our model get deployed it becomes product and in such business setting's we evaluate our model.
