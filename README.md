@@ -114,9 +114,11 @@ Data Prepration
               |--- 6. Language detection.
           
     |--- 3. Adv. Text Preprocessing
-         |--- 1. Part of speech tagging.
-         |--- 2. Parsing.
-         |--- 3. Co-reference Resolution. 
+         |--- 1. Parsing - It breakdown the sentences gramatically, so that our machine can underatand the meaning 
+                           of the sentence.
+                     |--- 1. Part of speech tagging - Here we categorize the word based on their part of speech.
+                     ...
+         |--- 2. Co-reference Resolution - Here we find all mentions(I, he, she, me...) that refers to same entity in text.
          
 ```
 </b>
