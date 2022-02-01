@@ -130,12 +130,12 @@ In this stage we will convert the text data into numeric format so that we can e
 <b>
 ```
 Feature Engineering Techniques
-      |--- 1. One-hot Encoding
-      |--- 2. Bag of Words
-      |--- 3. N-gram
-      |--- 4. Tf-IDF
-      |--- 5. Custom Features / Handcrafted Features 
-      |--- 6. Word2vec
+      |--- 1. One-hot Encoding - Ancient techique, having a lot of deawbacks
+      |--- 2. Bag of Words - It use count freq. of each word.
+      |--- 3. N-gram - Similar as BoW.
+      |--- 4. Tf-IDF - Use weights for representing each word.
+      |--- 5. Custom Features / Handcrafted Features - Generate features based on domain knowledge.
+      |--- 6. Word2vec - Deep Learning approach for creating word embeddings.
       ...
 
 ```
