@@ -220,7 +220,7 @@ Deployement Steps
   6. Challenges - We are just at 5% of the NLP's potential!
 </h4>
 
-Actually predicting the behaviour of stock market based on news minning is very attractive field of research and it has a lot of challenges because of unstructured nature of news. Many times, we've seen that news reporters tweak the headlines so smoothly so that we can't tell whether they're blaming or supporting the victim. One punctuation mark has power to change the meaning of the whole sentence. Therefore NLP is very challenging task. Here news minning means extracting hidden, useful and potentially unknown patterns from news data to obtain knowledge. 
+Actually predicting the behaviour of stock market based on news minning is very attractive field of research and it has a lot of challenges because of unstructured nature of news. Many times, we've seen that news reporters tweak the headlines so smoothly so that we can't tell whether they're blaming or supporting the victim. One punctuation mark has power to change whole meaning of the sentence. Therefore NLP is very challenging task. Here news minning means extracting hidden, useful and potentially unknown patterns from news data to obtain knowledge. 
 
 
 <h4 align="center">
